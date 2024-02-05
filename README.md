@@ -1,4 +1,11 @@
-# IMDB
-In this project, we are going to work on **IMDb Movies Database**.
-The objective of this case study is to analyze the movie dataset using SQL queries and extract valuable insights to guide Bolly Movies in planning their new project. 
-The analysis will cover various aspects such as table exploration, movie release trends, production statistics, genre popularity, rating analysis, crew members, and more.
+Dataset is taken from Kaggle.
+
+EDA is done in MySQL (MySQL Workbench).
+
+-Utilizing advanced SQL skills for IMDB data analysis, ensuring data integrity and handling missing values.
+
+-Analysed IMDB data to determine total movies, top Genres, top profitable movies and evaluated top performance of Actors, Actress and Directors with optimised using subqueries, join and stored procedures and window functions.
+
+Source code GitHub link:
+
+https://github.com/ManishMahato/IMDB
